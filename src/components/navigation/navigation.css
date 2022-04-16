@@ -2,7 +2,7 @@
   color: #25A4AD;
   font-weight: 700;
   padding-top: 0;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   cursor: pointer;
 }
 
@@ -11,8 +11,10 @@
 }
 
 .navbar-light .navbar-nav a.nav-link{
+  font-size: 1.2rem;
   color: black;
   font-weight: 600;
+  padding-left:40px ;
 }
 
 .navbar-light .navbar-nav a.nav-link:hover{
@@ -39,5 +41,8 @@
 @media screen and (max-width: 768px) {
   .navbar-light .navbar-nav:last-child{
     align-items: flex-start;
+  }
+  .navbar-light .navbar-nav a.nav-link{
+    padding-left: 0;
   }
 }
