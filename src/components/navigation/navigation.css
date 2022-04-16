@@ -1,0 +1,43 @@
+.navbar-light span.navbar-brand{
+  color: #25A4AD;
+  font-weight: 700;
+  padding-top: 0;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.navbar-light span.navbar-brand:hover{
+  color: #25A4AD;
+}
+
+.navbar-light .navbar-nav a.nav-link{
+  color: black;
+  font-weight: 600;
+}
+
+.navbar-light .navbar-nav a.nav-link:hover{
+  color: #25A4AD;
+}
+
+.navbar-light .navbar-nav:last-child{
+  align-items: center;
+  gap: 10px;
+}
+
+.navbar-light .navbar-nav:last-child a.nav-link:last-of-type{
+  color: #25A4AD;
+  padding: 1.2rem ;
+  border-radius: 0;
+  border-color: #25A4AD;
+}
+
+.navbar-light .navbar-nav:last-child a.nav-link:last-of-type:hover{
+  background-color: #25A4AD;
+  color: black;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar-light .navbar-nav:last-child{
+    align-items: flex-start;
+  }
+}
