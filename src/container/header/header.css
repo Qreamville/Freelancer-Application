@@ -1,0 +1,82 @@
+.header{
+  background-image: url(../../assets/header-bg.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header-heading{
+  margin: 90px 0 20px 0;
+}
+
+.header-heading h1{
+  font-weight: 100;
+  font-size: 5.25rem;
+  color: rgba(0, 0, 0, 0.8);
+  letter-spacing: 10px;
+}
+
+.header-heading h1 span{
+  color: var(--color-main);
+  font-weight: 700;
+}
+
+.header-text p{
+  max-width: 426px;
+  font-size: 1.3rem;
+  line-height: 23.66px;
+  color: #313131;
+  margin-bottom: 20px;
+}
+
+.header-button {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+.header-button button{
+  width: 140px;
+  height: 45px;
+}
+
+.header-button button:first-of-type{
+  background-color: var(--color-main);
+  border-radius: 0;
+  color: #fff;
+  box-shadow: 0px 10px 20px 7px rgba(0, 0, 0, 0.4);
+}
+
+.header-button button:first-of-type:hover{
+  color: var(--color-main);
+  background-color: transparent;
+  border: 1px solid var(--color-main);
+}
+
+.header-button button:last-of-type{
+  border: 1px solid var(--color-main);
+  border-radius: 0;
+  color: var(--color-main);
+}
+
+.header-button button:last-of-type:hover{
+  color: white;
+  background-color: var(--color-main);
+}
+
+.header-image{
+  margin-top: 1.25rem;
+  margin-right: 2rem;
+}
+
+.header-image img{
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width:768px) {
+  .header-heading{
+    margin-top: 0;
+  }
+}
+

@@ -1,0 +1,103 @@
+.services{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 4rem;
+  padding: 5rem;
+}
+.services-text h2{
+  font-size: 4rem;
+  line-height: 65px;
+}
+
+.services-text h2 span{
+  color: var(--color-main);
+}
+
+.services-text p{
+  font-size: 1.2rem;
+  line-height: 24px;
+}
+
+.services-cards{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  flex-direction: row;
+}
+
+.service-card__one{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 250px;
+  background-image: url(../../assets/Rectangle32.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.service-card__two{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 250px;
+  background-image: url(../../assets/Rectangle33.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.service-card__three{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 250px;
+  background-image: url(../../assets/Rectangle34.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.service-card__four{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 250px;
+  background-image: url(../../assets/Rectangle35.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.service-card__two .service-card__text{
+  color: black;
+}
+
+.service-card__text{
+  color: #fff;
+}
+
+.service-card__text h3{
+  font-weight: 500;
+}
+
+.services-btn button{
+  border: 1px solid var(--color-main);
+  padding: 1.5rem 4rem;
+  color: var(--color-main);
+}
+
+.services-btn button:hover{
+  color: #fff;
+  background-color: var(--color-main);
+}
+
+@media screen and (max-width: 550px) {
+  .services-cards{
+    grid-template-columns: 1fr;
+  }
+}

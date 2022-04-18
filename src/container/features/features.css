@@ -1,0 +1,44 @@
+.features{
+  background-color: #e8e8e8;
+  padding: 50px;
+}
+
+.features-text{
+  margin-bottom: 50px;
+}
+
+.features-text h2 span{
+  color: var(--color-main);
+}
+
+.features-text p{
+  font-size: 1.2rem;
+}
+
+.features-cards{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0px;
+}
+
+.features-btn{
+  margin-top: 50px;
+}
+
+.features-btn button{
+border: 1px solid var(--color-main);
+padding: 1.5rem 4rem;
+color: var(--color-main);
+}
+
+.features-btn button:hover{
+  background-color: var(--color-main);
+  color: #fff;
+}
+
+@media screen and (max-width:768px) {
+  .features-cards{
+    gap: 10px;
+  }
+}

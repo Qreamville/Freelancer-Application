@@ -1,0 +1,25 @@
+.feature{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.feature-card{
+  text-align: center;
+  padding: 2rem;
+}
+
+.feature-card .card-title{
+  margin-bottom: 20px;
+  color: var(--color-main);
+}
+
+.feature-card .card-text{
+  margin-bottom: 20px;
+}
+
+.feature-card .card-link{
+  text-decoration: none;
+  color: var(--color-main);
+}
+
