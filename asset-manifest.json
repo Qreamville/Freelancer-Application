@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Freelancer-Apllication/static/css/main.3b705fb3.css",
+    "main.js": "/Freelancer-Apllication/static/js/main.67d1a9ef.js",
+    "static/media/Group1382.png": "/Freelancer-Apllication/static/media/Group1382.fdfb724a0262d0beac1f.png",
+    "static/media/Rectangle34.png": "/Freelancer-Apllication/static/media/Rectangle34.fc6194f2c89e05981671.png",
+    "static/media/Rectangle32.png": "/Freelancer-Apllication/static/media/Rectangle32.9e879f056a8b81afa308.png",
+    "static/media/Rectangle35.png": "/Freelancer-Apllication/static/media/Rectangle35.8c12c6ec1938aa914405.png",
+    "static/media/Rectangle33.png": "/Freelancer-Apllication/static/media/Rectangle33.256ce02b2a3aa5631b4a.png",
+    "static/media/Rectangle.png": "/Freelancer-Apllication/static/media/Rectangle.e1ce49eaeaf8fd8d3610.png",
+    "index.html": "/Freelancer-Apllication/index.html",
+    "main.3b705fb3.css.map": "/Freelancer-Apllication/static/css/main.3b705fb3.css.map",
+    "main.67d1a9ef.js.map": "/Freelancer-Apllication/static/js/main.67d1a9ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b705fb3.css",
+    "static/js/main.67d1a9ef.js"
+  ]
+}
