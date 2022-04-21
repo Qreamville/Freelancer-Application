@@ -1,4 +1,4 @@
-## Freelancer Landing Page Application
+# Freelancer Landing Page Application
 
 A simple application built with:
 
