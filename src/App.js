@@ -1,5 +1,12 @@
-import "./App.css";
-import { Header, Services, Features } from "./container";
+import {
+  Header,
+  Services,
+  Features,
+  Testimonials,
+  Pricing,
+  Faqs,
+  Footer,
+} from "./container";
 import { Brand } from "./components";
 import "bootstrap/dist/css/bootstrap.css";
 
@@ -10,6 +17,10 @@ function App() {
       <Brand />
       <Services />
       <Features />
+      <Testimonials />
+      <Pricing />
+      <Faqs />
+      <Footer />
     </div>
   );
 }

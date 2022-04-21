@@ -1,10 +1,14 @@
 .features{
   background-color: #e8e8e8;
-  padding: 50px;
+  padding: 5rem 0;
 }
 
 .features-text{
-  margin-bottom: 50px;
+  margin-bottom: 5rem;
+}
+
+.features-text h2{
+  font-size: 4rem;
 }
 
 .features-text h2 span{
@@ -19,7 +23,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 0px;
+  flex-direction: row;
+  gap: 20px;
 }
 
 .features-btn{
@@ -39,6 +44,6 @@ color: var(--color-main);
 
 @media screen and (max-width:768px) {
   .features-cards{
-    gap: 10px;
+    flex-direction: column;
   }
 }

@@ -8,3 +8,7 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+
+button{
+  font-family: 'Roboto', sans-serif;
+}
