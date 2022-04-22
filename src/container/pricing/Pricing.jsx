@@ -12,7 +12,7 @@ const Pricing = () => {
         </div>
         <div className='pricing__card' >
           <div>
-            <Card style={{ width: '24rem' }}>
+            <Card style={{ width: '18rem' }}>
               <Card.Body>
                 <div className="card__title text-center">
                   <h3>For Starters</h3>
@@ -32,7 +32,7 @@ const Pricing = () => {
             </Card>
           </div>
           <div >
-            <Card style={{ width: '24rem' }}>
+            <Card style={{ width: '18rem' }}>
               <Card.Body>
                 <div className="card__title text-center">
                   <h3>For Teams</h3>
@@ -52,7 +52,7 @@ const Pricing = () => {
             </Card>
           </div>
           <div>
-            <Card style={{ width: '24rem' }}>
+            <Card style={{ width: '18rem' }}>
               <Card.Body>
                 <div className="card__title text-center">
                   <h3>For Company</h3>

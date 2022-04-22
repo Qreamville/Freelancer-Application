@@ -6,14 +6,14 @@
 }
 
 .header-heading{
-  margin: 90px 0 20px 0;
+  margin: 50px 0 20px 0;
 }
 
 .header-heading h1{
   font-weight: 100;
   font-size: 4.75rem;
   color: rgba(0, 0, 0, 0.8);
-  letter-spacing: 0.5rem;
+  letter-spacing: 0.2rem;
 }
 
 .header-heading h1 span{
@@ -36,8 +36,8 @@
 }
 
 .header-button button{
-  width: 140px;
-  height: 45px;
+  width: 10.2rem;
+  height: 2.8rem;
 }
 
 .header-button button:first-of-type{

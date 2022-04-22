@@ -11,7 +11,7 @@ const Header = () => {
         <Navigation />
         <header>
           <Row>
-            <Col md={6}>
+            <Col md={4}>
               <div className="header-heading">
                 <h1>Providing <br /> Best <br /><span>WEB Services</span></h1>
               </div>
@@ -23,7 +23,7 @@ const Header = () => {
                 <button className='btn'>Explore</button>
               </div>
             </Col>
-            <Col md={6}>
+            <Col md={8}>
               <div className="header-image">
                 <img src={bgImage} alt="girl" />
               </div>
