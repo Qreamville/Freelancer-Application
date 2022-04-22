@@ -1,7 +1,7 @@
 import React from 'react'
 import './features.css'
 import { Feature } from '../../components'
-import { Container, Row } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
 
 const Features = () => {
   return (

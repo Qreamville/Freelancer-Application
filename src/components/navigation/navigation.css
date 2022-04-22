@@ -28,7 +28,7 @@
 
 .navbar-light .navbar-nav:last-child a.nav-link:last-of-type{
   color: #25A4AD;
-  padding: 1.2rem ;
+  padding: 1.2rem 2rem ;
   border-radius: 0;
   border-color: #25A4AD;
 }
@@ -38,7 +38,7 @@
   color: black;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .navbar-light .navbar-nav:last-child{
     align-items: flex-start;
   }

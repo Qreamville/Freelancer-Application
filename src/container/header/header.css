@@ -11,9 +11,9 @@
 
 .header-heading h1{
   font-weight: 100;
-  font-size: 5.25rem;
+  font-size: 4.75rem;
   color: rgba(0, 0, 0, 0.8);
-  letter-spacing: 10px;
+  letter-spacing: 0.5rem;
 }
 
 .header-heading h1 span{

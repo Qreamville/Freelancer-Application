@@ -1,7 +1,7 @@
 import React from 'react'
 import { Navigation } from '../../components'
 import "./header.css"
-import { Container, Row, Col } from 'react-bootstrap'
+import { Row, Col, Container } from 'react-bootstrap'
 import bgImage from '../../assets/Group1382.png'
 
 const Header = () => {

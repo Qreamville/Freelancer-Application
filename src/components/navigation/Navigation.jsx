@@ -4,7 +4,7 @@ import { Navbar, Nav } from 'react-bootstrap'
 
 const Navigation = () => {
   return (
-    <Navbar expand="lg" >
+    <Navbar expand="md" >
       <Navbar.Brand>
         Payme
       </Navbar.Brand>
