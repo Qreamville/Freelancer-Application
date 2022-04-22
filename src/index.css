@@ -9,6 +9,11 @@
   scroll-behavior: smooth;
 }
 
+body{
+  font-family: "Roboto", sans-serif;
+  overflow: hidden;
+}
+
 button{
   font-family: 'Roboto', sans-serif;
 }
