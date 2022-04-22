@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Freelancer-Application/static/css/main.b750d4fe.css",
-    "main.js": "/Freelancer-Application/static/js/main.229caa64.js",
+    "main.css": "/Freelancer-Application/static/css/main.19eef18f.css",
+    "main.js": "/Freelancer-Application/static/js/main.c4fbfa00.js",
     "static/media/Group1382.png": "/Freelancer-Application/static/media/Group1382.fdfb724a0262d0beac1f.png",
     "static/media/Rectangle34.png": "/Freelancer-Application/static/media/Rectangle34.fc6194f2c89e05981671.png",
     "static/media/Rectangle32.png": "/Freelancer-Application/static/media/Rectangle32.9e879f056a8b81afa308.png",
@@ -9,11 +9,11 @@
     "static/media/Rectangle33.png": "/Freelancer-Application/static/media/Rectangle33.256ce02b2a3aa5631b4a.png",
     "static/media/Rectangle.png": "/Freelancer-Application/static/media/Rectangle.e1ce49eaeaf8fd8d3610.png",
     "index.html": "/Freelancer-Application/index.html",
-    "main.b750d4fe.css.map": "/Freelancer-Application/static/css/main.b750d4fe.css.map",
-    "main.229caa64.js.map": "/Freelancer-Application/static/js/main.229caa64.js.map"
+    "main.19eef18f.css.map": "/Freelancer-Application/static/css/main.19eef18f.css.map",
+    "main.c4fbfa00.js.map": "/Freelancer-Application/static/js/main.c4fbfa00.js.map"
   },
   "entrypoints": [
-    "static/css/main.b750d4fe.css",
-    "static/js/main.229caa64.js"
+    "static/css/main.19eef18f.css",
+    "static/js/main.c4fbfa00.js"
   ]
 }
